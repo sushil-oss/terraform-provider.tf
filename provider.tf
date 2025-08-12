@@ -13,6 +13,6 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "rg1" {
-  name     = "terraformrg1"
+  name     = "terraformrg111"
   location = "West Europe"
 }
